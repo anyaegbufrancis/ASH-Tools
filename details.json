@@ -1,0 +1,52 @@
+{
+        "pep_ip": "pep_ip_1",
+        "pep_ip2": "pep_ip_2",
+        "pep_ip3": "pep_ip_3",               
+        "pep_username": "domain\\username",
+        "pep_password": "password",
+        "environment": "AzureCloud",
+        "subscription_id": "subscription_id", 
+        "registrationName": "ASH registration name",
+        "ea_number": "ea_number",
+        "account_username": "azure_ad_username",
+        "account_password": "azure_ad_pw",
+        "dvm_name": "AzS-DVM",
+        "idrac_old": "changeme",
+        "idrac_new_u": "changeme",
+        "account1": "admin1",
+        "desc1": "Administrator Acccount 1",
+        "fname1": "Service Admin 1",
+        "account2": "admin2",
+        "desc2": "SAdministrator Acccount 2",
+        "fname2": "Service Admin 2",
+        "account3": "operator1",
+        "desc3": "Operator User Acccount",
+        "fname3": "Operator User",
+        "password": "password",
+        "pw1": "password",
+        "machines": [
+                "hlh_ip",
+                "mgmt_vm_ip"
+        ],        
+        "idrac":
+                [
+                        "node_1_ip",
+                        "node_2_ip",
+                        "node_3_ip",
+                        "node_4_ip",
+                        "node_5_ip",
+                        "node_6_ip",
+                        "node_7_ip",
+                        "node_8_ip",
+                        "node_9_ip",
+                        "node_10_ip",
+                        "node_11_ip",
+                        "node_12_ip",
+                        "node_13_ip",
+                        "node_14_ip",
+                        "node_15_ip",
+                        "node_16_ip"
+                ]
+
+      
+}
